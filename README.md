@@ -1,2 +1,5 @@
-# My_MPH_Analysis
-Master of Public Health specializing in Epidemiology and Biostatistics
+# Analysis of Catastrophic Health Spending
+Analysis of a cross-sectional study conducted among 403 households in Kogi state. Data was collected using self-administered structured questionnaires, that assess catastrophic health expenditure among the participants. Data was analyzed using Excel, SPSS, and Python, along with a Logistic Regression Model. I used descriptive statistics to summarize demographic characteristics, while Chi-square tests and logistic regression analyses explored associations between socio-demographic factors and participants affected with catastrophic health spending, with significance set at p ≤ 0.05.
+
+The analysis revealed that approximately 18.4% of households in Kogi state experienced catastrophic health expenditures, with a majority of those affected (65%) resided in rural areas. There was a significant correlation between the gender of the household head and their ability to cover healthcare costs (𝜒2 = 2.55, 𝑑𝑓 = 1, 𝑝 < 0.01). Also, lack of access to NHIS was associated with a 0.645 times greater likelihood of impacting the family's economic status, and this association was statistically significant (𝛽 = 0.439, Odds Ratio [OR] = 0.645, Confidence Interval [CI] = 0.454 − 0.916, 𝑝 < 0.05).
+
